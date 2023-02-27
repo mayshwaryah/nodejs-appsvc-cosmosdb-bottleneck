@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 variables:
-  webAppName: 'mayshwaryah-Load Testing-06d3ced1-c98d-4508-921a-e6c2eda16bea'
+  webAppName: 'nodejs-appsvc-cosmosdb-bottleneck'
   serviceConnection: 'LoadTestConnection'
   azureSubscriptionId: '06d3ced1-c98d-4508-921a-e6c2eda16bea'
   loadTestResource: ''
