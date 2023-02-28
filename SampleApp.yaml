@@ -1,5 +1,5 @@
 version: v0.1
-testId: SampleAppTest
+testId: 6e526bcb-29ab-49bd-9de3-0698f900f657
 displayName: LoadTestManual
 testPlan: SampleApp.jmx
 description: 'Load test the sample app'
