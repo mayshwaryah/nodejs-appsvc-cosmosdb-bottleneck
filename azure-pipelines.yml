@@ -15,7 +15,7 @@ variables:
   azureSubscriptionId: '06d3ced1-c98d-4508-921a-e6c2eda16bea'
   loadTestResource: 'ASP-LoadTestFinal-a760'
   loadTestResourceGroup: 'LoadTestFinal'
-  location: 'EAST US'
+  location: 'WEST US'
 
 
 stages:
