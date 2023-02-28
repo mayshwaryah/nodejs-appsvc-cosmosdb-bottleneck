@@ -13,8 +13,8 @@ variables:
   webAppName: 'pipelines-java'
   serviceConnection: 'LoadTestConnection'
   azureSubscriptionId: '06d3ced1-c98d-4508-921a-e6c2eda16bea'
-  loadTestResource: ''
-  loadTestResourceGroup: ''
+  loadTestResource: 'LoadTestFinalWebService'
+  loadTestResourceGroup: 'LoadTestFinal'
   location: 'EAST US'
 
 
