@@ -11,10 +11,10 @@ pool:
 
 variables:
   webAppName: 'LoadTestFinalWebService'
-  serviceConnection: 'LoadTestConnection'
-  azureSubscriptionId: '06d3ced1-c98d-4508-921a-e6c2eda16bea'
-  loadTestResource: 'ResGroupTryInstance'
-  loadTestResourceGroup: 'ResGroupTry'
+  serviceConnection: 'Load Test Service Connection'
+  azureSubscriptionId: 'ea123d98-1ab7-4caf-b4df-f9d1cd16eaee'
+  loadTestResource: 'FirstResourceInstance'
+  loadTestResourceGroup: 'FirstResourceGroup'
   location: 'EASTUS'
 
 
